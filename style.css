@@ -1,0 +1,19 @@
+body{
+background-color: blueviolet;
+}
+img{
+    width:475px;
+    height: 300px;
+    margin: 20px;  
+}
+
+.rows{
+    margin:50px;
+    display:flex;
+}
+p{
+    font-size: 25px;
+}
+p:hover,img:hover{
+    transform: scale(0.9);
+}
